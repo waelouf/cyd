@@ -1,0 +1,5 @@
+repo: 0340d714d06220c515de9a35a51c930773236a3a
+node: 0340d714d06220c515de9a35a51c930773236a3a
+branch: default
+latesttag: null
+latesttagdistance: 1

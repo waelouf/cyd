@@ -1,0 +1,398 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="livetemplates.csharp.usevar">True</setting>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="F8C712EC-AC33-4E93-829A-6AF366E6EE43/d:Properties/f:AssemblyInfo.cs" caret="469" fromTop="9" />
+      <File id="F8C712EC-AC33-4E93-829A-6AF366E6EE43/f:CleanYourDatabase.Designer.cs" caret="0" fromTop="0" />
+      <File id="F8C712EC-AC33-4E93-829A-6AF366E6EE43/f:Program.cs" caret="476" fromTop="16" />
+      <File id="F8C712EC-AC33-4E93-829A-6AF366E6EE43/f:HowToUse.cs" caret="184" fromTop="1" />
+      <File id="F8C712EC-AC33-4E93-829A-6AF366E6EE43/f:About.cs" caret="449" fromTop="13" />
+      <File id="F8C712EC-AC33-4E93-829A-6AF366E6EE43/f:CleanYourDatabase.cs" caret="2926" fromTop="14" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="F8C712EC-AC33-4E93-829A-6AF366E6EE43/f:CleanYourDatabase.cs" caret="16178" fromTop="16" />
+      <File id="F8C712EC-AC33-4E93-829A-6AF366E6EE43/f:CleanYourDatabase.cs" caret="181" fromTop="1" />
+      <File id="F8C712EC-AC33-4E93-829A-6AF366E6EE43/f:CleanYourDatabase.cs" caret="4843" fromTop="16" />
+      <File id="F8C712EC-AC33-4E93-829A-6AF366E6EE43/f:CleanYourDatabase.cs" caret="4406" fromTop="26" />
+      <File id="F8C712EC-AC33-4E93-829A-6AF366E6EE43/f:CleanYourDatabase.cs" caret="8112" fromTop="15" />
+      <File id="F8C712EC-AC33-4E93-829A-6AF366E6EE43/f:CleanYourDatabase.cs" caret="7669" fromTop="25" />
+      <File id="F8C712EC-AC33-4E93-829A-6AF366E6EE43/f:CleanYourDatabase.cs" caret="12352" fromTop="15" />
+      <File id="F8C712EC-AC33-4E93-829A-6AF366E6EE43/f:CleanYourDatabase.cs" caret="11910" fromTop="25" />
+      <File id="F8C712EC-AC33-4E93-829A-6AF366E6EE43/f:CleanYourDatabase.cs" caret="16053" fromTop="18" />
+      <File id="F8C712EC-AC33-4E93-829A-6AF366E6EE43/f:CleanYourDatabase.cs" caret="15607" fromTop="28" />
+      <File id="F8C712EC-AC33-4E93-829A-6AF366E6EE43/f:CleanYourDatabase.cs" caret="16168" fromTop="15" />
+      <File id="F8C712EC-AC33-4E93-829A-6AF366E6EE43/f:CleanYourDatabase.cs" caret="5586" fromTop="18" />
+      <File id="F8C712EC-AC33-4E93-829A-6AF366E6EE43/f:CleanYourDatabase.cs" caret="8902" fromTop="12" />
+      <File id="F8C712EC-AC33-4E93-829A-6AF366E6EE43/f:CleanYourDatabase.cs" caret="10119" fromTop="12" />
+      <File id="F8C712EC-AC33-4E93-829A-6AF366E6EE43/f:CleanYourDatabase.cs" caret="1648" fromTop="12" />
+      <File id="F8C712EC-AC33-4E93-829A-6AF366E6EE43/f:CleanYourDatabase.cs" caret="2125" fromTop="12" />
+      <File id="F8C712EC-AC33-4E93-829A-6AF366E6EE43/f:CleanYourDatabase.cs" caret="7617" fromTop="12" />
+      <File id="F8C712EC-AC33-4E93-829A-6AF366E6EE43/f:HowToUse.cs" caret="1363" fromTop="11" />
+      <File id="F8C712EC-AC33-4E93-829A-6AF366E6EE43/f:HowToUse.cs" caret="934" fromTop="21" />
+      <File id="F8C712EC-AC33-4E93-829A-6AF366E6EE43/f:HowToUse.cs" caret="809" fromTop="6" />
+      <File id="F8C712EC-AC33-4E93-829A-6AF366E6EE43/f:HowToUse.cs" caret="540" fromTop="14" />
+      <File id="F8C712EC-AC33-4E93-829A-6AF366E6EE43/f:HowToUse.cs" caret="388" fromTop="8" />
+      <File id="F8C712EC-AC33-4E93-829A-6AF366E6EE43/f:HowToUse.cs" caret="184" fromTop="1" />
+      <File id="F8C712EC-AC33-4E93-829A-6AF366E6EE43/f:HowToUse.cs" caret="1424" fromTop="1" />
+      <File id="F8C712EC-AC33-4E93-829A-6AF366E6EE43/f:Program.cs" caret="511" fromTop="16" />
+      <File id="F8C712EC-AC33-4E93-829A-6AF366E6EE43/f:CleanYourDatabase.cs" caret="13949" fromTop="20" />
+      <File id="F8C712EC-AC33-4E93-829A-6AF366E6EE43/f:CleanYourDatabase.cs" caret="13814" fromTop="17" />
+      <File id="F8C712EC-AC33-4E93-829A-6AF366E6EE43/f:CleanYourDatabase.cs" caret="13944" fromTop="22" />
+      <File id="F8C712EC-AC33-4E93-829A-6AF366E6EE43/f:CleanYourDatabase.cs" caret="13423" fromTop="4" />
+      <File id="F8C712EC-AC33-4E93-829A-6AF366E6EE43/f:CleanYourDatabase.cs" caret="3046" fromTop="15" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir>C:\Program Files\NUnit 2.5.5\bin\net-2.0\</NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="progressBar1" priority="4" />
+      <Item value="for" priority="0" />
+      <Item value="private" priority="5" />
+      <Item value="Padding`0" priority="2" />
+      <Item value="var" priority="11" />
+      <Item value="new" priority="22" />
+      <Item value="DataTable`0" priority="0" />
+      <Item value="return" priority="10" />
+      <Item value="storedProcedures" priority="0" />
+      <Item value="string" priority="27" />
+      <Item value="Message`0" priority="3" />
+      <Item value="MessageBox`0" priority="10" />
+      <Item value="using" priority="3" />
+      <Item value="System" priority="1" />
+      <Item value="Data" priority="0" />
+      <Item value="SqlClient" priority="0" />
+      <Item value="SqlConnection`0" priority="4" />
+      <Item value="connection" priority="13" />
+      <Item value="SqlConnection" priority="2" />
+      <Item value="connectionString" priority="10" />
+      <Item value="SqlCommand`0" priority="1" />
+      <Item value="command" priority="11" />
+      <Item value="SqlCommand" priority="1" />
+      <Item value="CommandType`0" priority="0" />
+      <Item value="query" priority="0" />
+      <Item value="catch" priority="0" />
+      <Item value="Exception`0" priority="0" />
+      <Item value="if" priority="21" />
+      <Item value="ex" priority="2" />
+      <Item value="SqlDataAdapter`0" priority="0" />
+      <Item value="dataAdapter" priority="1" />
+      <Item value="SqlDataAdapter" priority="0" />
+      <Item value="DataSet`0" priority="0" />
+      <Item value="DataSet" priority="0" />
+      <Item value="filled" priority="2" />
+      <Item value="DataTable" priority="0" />
+      <Item value="finally" priority="2" />
+      <Item value="test" priority="1" />
+      <Item value="label1" priority="1" />
+      <Item value="Convert`0" priority="0" />
+      <Item value="Thread`0" priority="1" />
+      <Item value="Thread" priority="1" />
+      <Item value="ParameterizedThreadStart" priority="1" />
+      <Item value="button2_Click`0" priority="0" />
+      <Item value="button2" priority="0" />
+      <Item value="EventArgs" priority="0" />
+      <Item value="null" priority="3" />
+      <Item value="thread" priority="4" />
+      <Item value="ThreadStart`0" priority="0" />
+      <Item value="true" priority="6" />
+      <Item value="break" priority="1" />
+      <Item value="bool" priority="0" />
+      <Item value="false" priority="4" />
+      <Item value="exist" priority="0" />
+      <Item value="listBox1" priority="7" />
+      <Item value="storedProcedureName" priority="0" />
+      <Item value="label3" priority="0" />
+      <Item value="lstServers" priority="8" />
+      <Item value="Microsoft" priority="0" />
+      <Item value="SqlServer" priority="0" />
+      <Item value="Server" priority="0" />
+      <Item value="SqlMetaData`0" priority="0" />
+      <Item value="SmoApplication`0" priority="0" />
+      <Item value="servers" priority="0" />
+      <Item value="GetConnectionString`0" priority="4" />
+      <Item value="panel1" priority="0" />
+      <Item value="this" priority="6" />
+      <Item value="txtUserName" priority="2" />
+      <Item value="txtPassword" priority="2" />
+      <Item value="label2" priority="0" />
+      <Item value="ToolStripRenderer`0" priority="0" />
+      <Item value="serverName" priority="1" />
+      <Item value="GenerateConnectionString" priority="0" />
+      <Item value="GetConnectionString" priority="0" />
+      <Item value="conn" priority="10" />
+      <Item value="ServerConnection" priority="0" />
+      <Item value="else" priority="3" />
+      <Item value="IMessageFilter`0" priority="0" />
+      <Item value="rdbtnWindowsAuth" priority="0" />
+      <Item value="rdbtnSqlServer" priority="0" />
+      <Item value="initialConnectionString" priority="0" />
+      <Item value="try" priority="2" />
+      <Item value="databases" priority="1" />
+      <Item value="lstDataBases" priority="4" />
+      <Item value="GenerateFinalConnectionString`0" priority="1" />
+      <Item value="SqlClientFactory`0" priority="0" />
+      <Item value="clientFactory" priority="1" />
+      <Item value="SqlClientFactory" priority="0" />
+      <Item value="SqlDataSourceEnumerator" priority="0" />
+      <Item value="serverEnum" priority="0" />
+      <Item value="serversa" priority="1" />
+      <Item value="row" priority="0" />
+      <Item value="Instance" priority="0" />
+      <Item value="Linq" priority="0" />
+      <Item value="OK" priority="5" />
+      <Item value="Information" priority="0" />
+      <Item value="Error" priority="1" />
+      <Item value="prop" priority="0" />
+      <Item value="ConnectionString" priority="0" />
+      <Item value="DialogResult`0" priority="2" />
+      <Item value="public" priority="1" />
+      <Item value="folderBrowserDialog1" priority="1" />
+      <Item value="path" priority="3" />
+      <Item value="foreach" priority="0" />
+      <Item value="script" priority="5" />
+      <Item value="Environment`0" priority="2" />
+      <Item value="item" priority="0" />
+      <Item value="saveFileDialog1" priority="7" />
+      <Item value="Barrier`0" priority="0" />
+      <Item value="SqlTransaction`0" priority="0" />
+      <Item value="stream" priority="2" />
+      <Item value="StreamWriter`0" priority="1" />
+      <Item value="streamWriter" priority="2" />
+      <Item value="StreamWriter" priority="1" />
+      <Item value="btnGenerateScript" priority="1" />
+      <Item value="FileStream`0" priority="1" />
+      <Item value="fileStream" priority="4" />
+      <Item value="FileStream" priority="1" />
+      <Item value="CreateNew" priority="0" />
+      <Item value="File`0" priority="0" />
+      <Item value="writer" priority="2" />
+      <Item value="WindowTarget" priority="0" />
+      <Item value="Directory`0" priority="0" />
+      <Item value="RetrieveVirtualItemEventArgs`0" priority="0" />
+      <Item value="GenerateScript`0" priority="1" />
+      <Item value="Text" priority="0" />
+      <Item value="exception" priority="1" />
+      <Item value="btnRunScript" priority="0" />
+      <Item value="HowToUse`0" priority="0" />
+      <Item value="NullReferenceException`0" priority="0" />
+      <Item value="how" priority="0" />
+      <Item value="About`0" priority="0" />
+      <Item value="about" priority="0" />
+      <Item value="YesNo" priority="0" />
+      <Item value="Warning" priority="1" />
+      <Item value="dialogResult" priority="0" />
+      <Item value="No" priority="0" />
+      <Item value="lblPath" priority="0" />
+      <Item value="lblConnectionString" priority="0" />
+      <Item value="Exclamation" priority="0" />
+      <Item value="files" priority="1" />
+      <Item value="ToList`1" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.ProgressBar">
+      <Item value="Maximum" priority="0" />
+      <Item value="Minimum" priority="0" />
+      <Item value="Value" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Threading.Thread">
+      <Item value="Sleep`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.String">
+      <Item value="Format`0" priority="3" />
+      <Item value="Empty" priority="6" />
+      <Item value="IsNullOrEmpty`0" priority="0" />
+      <Item value="IsNullOrWhiteSpace`0" priority="9" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Forms.MessageBox">
+      <Item value="Show`0" priority="12" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Data.SqlClient.SqlCommand">
+      <Item value="Connection" priority="1" />
+      <Item value="CommandType" priority="1" />
+      <Item value="CommandText" priority="1" />
+      <Item value="ExecuteReader`0" priority="0" />
+      <Item value="ExecuteNonQuery`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Data.CommandType">
+      <Item value="Text" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Data.SqlClient.SqlConnection">
+      <Item value="Open`0" priority="3" />
+      <Item value="Close`0" priority="3" />
+      <Item value="GetSchema`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Exception">
+      <Item value="Message" priority="3" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Data.SqlClient.SqlDataAdapter">
+      <Item value="Fill`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Data.DataSet">
+      <Item value="Tables" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Data.DataTableCollection">
+      <Item value="Count" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Data.DataTable">
+      <Item value="Rows" priority="1" />
+      <Item value="AsEnumerable`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Data.DataRowCollection">
+      <Item value="Count" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.Label">
+      <Item value="Text" priority="4" />
+      <Item value="Enabled" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Convert">
+      <Item value="ToString`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Threading.Thread">
+      <Item value="IsBackground" priority="0" />
+      <Item value="Start`0" priority="0" />
+      <Item value="Equals`0" priority="0" />
+      <Item value="Abort`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.IO.StreamReader">
+      <Item value="Dispose`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.ListBox">
+      <Item value="Items" priority="7" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.ListBox+ObjectCollection">
+      <Item value="Add`0" priority="0" />
+      <Item value="Count" priority="4" />
+      <Item value="Clear`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Int32">
+      <Item value="ToString`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.ComboBox">
+      <Item value="Items" priority="3" />
+      <Item value="DataSource" priority="1" />
+      <Item value="Text" priority="6" />
+      <Item value="SelectedText" priority="1" />
+      <Item value="TextChanged" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.ComboBox+ObjectCollection">
+      <Item value="Count" priority="1" />
+      <Item value="Clear`0" priority="2" />
+      <Item value="Remove`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Microsoft.SqlServer.Server.SqlMetaData">
+      <Item value="Max" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Microsoft.SqlServer.Management.Smo.SmoApplication">
+      <Item value="EnumAvailableSqlServers`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.Panel">
+      <Item value="Text" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:FileSearch.GetConnectionString">
+      <Item value="panel1" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.TextBox">
+      <Item value="Enabled" priority="1" />
+      <Item value="Text" priority="3" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.String">
+      <Item value="Equals`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.RadioButton">
+      <Item value="Checked" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Data.Sql.SqlDataSourceEnumerator">
+      <Item value="Instance" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Data.Sql.SqlDataSourceEnumerator">
+      <Item value="GetDataSources`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Data.EnumerableRowCollection`1">
+      <Item value="Select`2" priority="0" />
+      <Item value="OrderBy`2" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Data.DataRow">
+      <Item value="Field`1" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Data.OrderedEnumerableRowCollection`1">
+      <Item value="ToList`1" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:GenerateConnectionString.GetConnectionString">
+      <Item value="ConnectionString" priority="3" />
+      <Item value="ShowDialog`0" priority="3" />
+      <Item value="Hide`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Forms.DialogResult">
+      <Item value="OK" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.FolderBrowserDialog">
+      <Item value="ShowDialog`0" priority="0" />
+      <Item value="SelectedPath" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Environment">
+      <Item value="NewLine" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.SaveFileDialog">
+      <Item value="CreatePrompt" priority="1" />
+      <Item value="OpenFile`0" priority="1" />
+      <Item value="ShowDialog`0" priority="0" />
+      <Item value="Filter" priority="0" />
+      <Item value="Title" priority="0" />
+      <Item value="FileName" priority="0" />
+      <Item value="CheckFileExists" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.IO.StreamWriter">
+      <Item value="Write`0" priority="1" />
+      <Item value="Close`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.IO.Stream">
+      <Item value="Close`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.Button">
+      <Item value="Image" priority="0" />
+      <Item value="Visible" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.IO.FileMode">
+      <Item value="Open" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.IO.FileStream">
+      <Item value="Write`0" priority="1" />
+      <Item value="Dispose`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.IO.Directory">
+      <Item value="Exists`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:FileSearch.Form1">
+      <Item value="connectionString" priority="1" />
+      <Item value="Close`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:FileSearch.HowToUse">
+      <Item value="Show`0" priority="0" />
+      <Item value="ShowDialog`0" priority="0" />
+      <Item value="Hide`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:FileSearch.About">
+      <Item value="Show`0" priority="0" />
+      <Item value="Hide`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.List`1">
+      <Item value="Add`0" priority="0" />
+      <Item value="AddRange`0" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>
